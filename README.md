@@ -23,12 +23,10 @@ The analysis culminated in an exploration of the annual percentage of women majo
 
 In essence, this comprehensive analysis not only sheds light on the existing gender gap in education in America but also offers a glimmer of hope for future generations of girls. It showcases the ongoing progress in enhancing female representation within STEM fields, evident through noticeable shifts in enrollment trends and a growing interest, particularly in fields like computer science. These findings emphasize the crucial need for sustained efforts to promote inclusivity and gender diversity within STEM disciplines, paving the way for a more equitable and promising future for women.
 
-See the above graphs in a Tablaeu dashboard [here](https://public.tableau.com/views/WomeninSTEMDashboard/Dashboard1?:language=en-US&).
+See the above graphs in a Tableau dashboard [here](https://public.tableau.com/views/WomeninSTEMDashboard/Dashboard1?:language=en-US&).
 
  ## Sources
 
  I used [degree completion data](https://nces.ed.gov/ipeds/SummaryTables/report/300?templateId=3000&year=2022&tt=aggregate&instType=1&sid=d3e3eb30-c12a-4fb9-a0aa-ec56661f02e1) from the National Center for Education Statistics for this project. 
 
 See the PostgreSQL queries I used to generate the graphs in the [sql](https://github.com/kate-amsterdam/WomenInSTEM/tree/main/sql) folder.
-
-
