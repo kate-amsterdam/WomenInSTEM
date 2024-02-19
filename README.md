@@ -8,4 +8,6 @@ my dashboard is available at this [link](https://public.tableau.com/views/Womeni
 ![Percent of women in stem per degree in 2022](https://github.com/kate-amsterdam/WomenInSTEM/blob/main/images/blockgraph.png)
 ![Yearly percentage of women in stem that majored in computer science](https://github.com/kate-amsterdam/WomenInSTEM/blob/main/images/bargraph.png)
 
-<img src="https://github.com/kate-amsterdam/WomenInSTEM/blob/main/images/linegraph.png" width="250">
+<img src="https://github.com/kate-amsterdam/WomenInSTEM/blob/main/images/linegraph.png" width="500">
+<img src="https://github.com/kate-amsterdam/WomenInSTEM/blob/main/images/blockgraph.png" width="500">
+<img src="https://github.com/kate-amsterdam/WomenInSTEM/blob/main/images/bargraph.png" width="500">
