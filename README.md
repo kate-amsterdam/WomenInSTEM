@@ -29,5 +29,6 @@ See the above graphs in a Tablaeu dashboard [here](https://public.tableau.com/vi
 
  I used [degree completion data](https://nces.ed.gov/ipeds/SummaryTables/report/300?templateId=3000&year=2022&tt=aggregate&instType=1&sid=d3e3eb30-c12a-4fb9-a0aa-ec56661f02e1) from the National Center for Education Statistics for this project. 
 
+See the PostgreSQL queries I used to generate the graphs in the [sql](https://github.com/kate-amsterdam/WomenInSTEM/tree/main/sql) folder.
 
 
