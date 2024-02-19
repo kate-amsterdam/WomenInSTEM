@@ -3,7 +3,7 @@
 This is a project that is looking at the increase of women in stem from 2011-2022.
 
 ## Analysis 
-my live dashboard is available at this[link](https://public.tableau.com/views/WomeninSTEMDashboard/Dashboard1?:language=en-US&
+my live dashboard is available at this [link](https://public.tableau.com/views/WomeninSTEMDashboard/Dashboard1?:language=en-US&)
 
 For this project, data was sourced from the National Center for Education Statistics. To define STEM (Science, Technology, Engineering, and Mathematics) majors, I researched each listed major in the dataset to determine which ones were considered  "STEM" or "non-STEM," resulting in the creation of a boolean column titled "STEM," where majors deemed STEM received a "TRUE" designation, while others received a "FALSE."
 
@@ -23,7 +23,9 @@ The analysis culminated in an exploration of the annual percentage of women majo
 
 In essence, this comprehensive analysis not only sheds light on the existing gender gap in education in America but also offers a glimmer of hope for future generations of girls. It showcases the ongoing progress in enhancing female representation within STEM fields, evident through noticeable shifts in enrollment trends and a growing interest, particularly in fields like computer science. These findings emphasize the crucial need for sustained efforts to promote inclusivity and gender diversity within STEM disciplines, paving the way for a more equitable and promising future for women.
 
+ ## Sources
 
+ I used [degree completion data](https://nces.ed.gov/ipeds/SummaryTables/report/300?templateId=3000&year=2022&tt=aggregate&instType=1&sid=d3e3eb30-c12a-4fb9-a0aa-ec56661f02e1) from the National Center for Education Statistics for this project. 
 
 
 
